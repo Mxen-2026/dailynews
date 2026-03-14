@@ -127,6 +127,10 @@ rss:
       name: "雅虎财经"
       url: "https://finance.yahoo.com/news/rssindex"
 
+    - id: "jin10"
+      name: "金十数据"
+      url: "https://www.jin10.com/rss.xml"
+
     # 自定义源示例
     # - id: "custom-feed"
     #   name: "自定义源"
