@@ -73,8 +73,6 @@ platforms:
       name: "财联社 深度"
     - id: "weibo"
       name: "微博"
-    - id: "douyin"
-      name: "抖音"
     - id: "fastbull-express"
       name: "法布财经 快讯"
 
